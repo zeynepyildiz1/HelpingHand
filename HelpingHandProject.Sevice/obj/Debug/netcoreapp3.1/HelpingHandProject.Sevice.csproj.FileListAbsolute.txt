@@ -1,0 +1,14 @@
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\bin\Debug\netcoreapp3.1\HelpingHandProject.Sevice.deps.json
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\bin\Debug\netcoreapp3.1\HelpingHandProject.Sevice.dll
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\bin\Debug\netcoreapp3.1\HelpingHandProject.Sevice.pdb
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\obj\Debug\netcoreapp3.1\HelpingHandProject.Sevice.csprojAssemblyReference.cache
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\obj\Debug\netcoreapp3.1\HelpingHandProject.Sevice.csproj.CoreCompileInputs.cache
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\obj\Debug\netcoreapp3.1\HelpingHandProject.Sevice.AssemblyInfoInputs.cache
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\obj\Debug\netcoreapp3.1\HelpingHandProject.Sevice.AssemblyInfo.cs
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\obj\Debug\netcoreapp3.1\HelpingHandProject.Sevice.dll
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\obj\Debug\netcoreapp3.1\HelpingHandProject.Sevice.pdb
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\bin\Debug\netcoreapp3.1\HelpingHandProject.Core.dll
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\bin\Debug\netcoreapp3.1\HelpingHandProject.Data.dll
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\bin\Debug\netcoreapp3.1\HelpingHandProject.Core.pdb
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\bin\Debug\netcoreapp3.1\HelpingHandProject.Data.pdb
+C:\Users\ZEYNEP\source\repos\HelpingHandProject\HelpingHandProject.Sevice\obj\Debug\netcoreapp3.1\HelpingHandProject.Sevice.csproj.CopyComplete

@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.API\\HelpingHandProject.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.API\\HelpingHandProject.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.API\\HelpingHandProject.API.csproj",
+        "projectName": "HelpingHandProject.API",
+        "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.API\\HelpingHandProject.API.csproj",
+        "packagesPath": "C:\\Users\\azeyn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\azeyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj": {
+                "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj"
+              },
+              "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\HelpingHandProject.Data.csproj": {
+                "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\HelpingHandProject.Data.csproj"
+              },
+              "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Sevice\\HelpingHandProject.Service.csproj": {
+                "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Sevice\\HelpingHandProject.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj",
+        "projectName": "HelpingHandProject.Core",
+        "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj",
+        "packagesPath": "C:\\Users\\azeyn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\azeyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\HelpingHandProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\HelpingHandProject.Data.csproj",
+        "projectName": "HelpingHandProject.Data",
+        "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\HelpingHandProject.Data.csproj",
+        "packagesPath": "C:\\Users\\azeyn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\azeyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj": {
+                "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Sevice\\HelpingHandProject.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Sevice\\HelpingHandProject.Service.csproj",
+        "projectName": "HelpingHandProject.Service",
+        "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Sevice\\HelpingHandProject.Service.csproj",
+        "packagesPath": "C:\\Users\\azeyn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Sevice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\azeyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj": {
+                "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHand.Core\\HelpingHandProject.Core.csproj"
+              },
+              "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\HelpingHandProject.Data.csproj": {
+                "projectPath": "C:\\Users\\azeyn\\source\\repos\\HelpingHandProject\\HelpingHandProject.Data\\HelpingHandProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
